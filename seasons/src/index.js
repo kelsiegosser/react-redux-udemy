@@ -13,8 +13,7 @@ class App extends React.Component {
         );
     }
 
-    // React says we have to define render method!!
-    render() {
+    renderContent() {
         if (this.state.errorMessage && !this.state.lat) {
             return <div>Error: {this.state.errorMessage}</div>;
         }
@@ -23,7 +22,11 @@ class App extends React.Component {
             return <SeasonDisplay lat={this.state.lat} />;
         }
 
-        return <div>Loading!</div>;
+        return <Spinner message="Please accept location request" />;
+    }
+
+    render() {
+        return <div classname="border red">{this.renderContent()}</div>;
     }
 }
 
