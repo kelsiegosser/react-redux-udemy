@@ -2,6 +2,7 @@
 Udemy Course by Stephen Grider
 
 ## Projects
+1. Seasons
 
 ## Getting Started
 1. Open a command window in the directory where you want the project saved
