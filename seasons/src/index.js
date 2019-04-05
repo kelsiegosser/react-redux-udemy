@@ -2,22 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 class App extends React.Component {
-    // Javascript constructor method
-    constructor(props) {
-        super(props); // Always need super function first
+    state = { lat: null, errorMessage: "" };
 
-        // THIS IS THE ONLY TIME we do direct assignment to this.state!!!
-        this.state = { lat: null, errorMessage: "" };
-
+    componentDidMount() {
         window.navigator.geolocation.getCurrentPosition(
-            position => {
-                // remember to always use setState
-                this.setState({ lat: position.coords.latitude });
-            },
-            err => {
-                // setState is additive; it will not replace the above statement but add to it
-                this.setState({ errorMessage: err.message });
-            }
+            position => this.setState({ lat: position.coords.latitude }),
+            err => this.setState({ errorMessage: err.message })
         );
     }
 
