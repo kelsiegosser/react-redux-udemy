@@ -3,6 +3,11 @@ Udemy Course by Stephen Grider
 
 ## Projects
 
+## Getting Started
+1. Open a command window in the directory where you want the project saved
+1. Type `create-react-app project_name` with whatever `project_name` you want
+1. Change directory to your new `project_name` (Type `cd project_name` in command line)
+1. Type `npm start` in the command line to generate the app
 
 ## External Resources
 - [Babel](https://babeljs.io/) - The compiler for next generation javascript
