@@ -2,7 +2,10 @@
 Udemy Course by Stephen Grider
 
 ## Projects
+1. JSX
+1. Components
 1. Seasons
+1. Pics
 
 ## Getting Started
 1. Open a command window in the directory where you want the project saved
@@ -15,3 +18,4 @@ Udemy Course by Stephen Grider
 - [CodePen](https://codepen.io/)
 - [Semantic UI](https://semantic-ui.com/) and the libraries: https://cdnjs.com/libraries/semantic-ui\ - Provides a consistent UI
 - [Faker.js](https://github.com/marak/Faker.js/) - Provides fake data
+- [Unsplash Developers](https://unsplash.com/developers) - API to grab pictures
