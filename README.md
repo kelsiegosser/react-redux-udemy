@@ -20,4 +20,4 @@ Udemy Course by Stephen Grider
 - [Semantic UI](https://semantic-ui.com/) and the libraries: https://cdnjs.com/libraries/semantic-ui\ - Provides a consistent UI
 - [Faker.js](https://github.com/marak/Faker.js/) - Provides fake data
 - [Unsplash Developers](https://unsplash.com/developers) - API to grab pictures
-- [Google Developers](https://console.developers.google.com/) - this link is used to get the YouTube API
+- [Google Developers](https://console.developers.google.com/) - this link is used to get an API
