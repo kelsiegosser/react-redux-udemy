@@ -7,6 +7,7 @@ Udemy Course by Stephen Grider
 1. Seasons
 1. Pics
 1. Videos
+1. Songs
 
 ## Getting Started
 1. Open a command window in the directory where you want the project saved
@@ -21,3 +22,4 @@ Udemy Course by Stephen Grider
 - [Faker.js](https://github.com/marak/Faker.js/) - Provides fake data
 - [Unsplash Developers](https://unsplash.com/developers) - API to grab pictures
 - [Google Developers](https://console.developers.google.com/) - this link is used to get an API
+- [JSON Placholder](http://jsonplaceholder.typicode.com/)
