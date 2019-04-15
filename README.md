@@ -25,3 +25,4 @@ Udemy Course by Stephen Grider
 - [Google Developers](https://console.developers.google.com/) - this link is used to get an API
 - [JSON Placholder](http://jsonplaceholder.typicode.com/)
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
+- [Lodash](https://lodash.com/docs/4.17.11)
