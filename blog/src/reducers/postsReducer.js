@@ -7,7 +7,7 @@ export default (state = [], action) => {
   }
 };
 
-// Alternatively, can use the if statements
+// Alternatively, can use the if statements,
 // although less common
 //
 // if (action.type === 'FETCH_POSTS') {
