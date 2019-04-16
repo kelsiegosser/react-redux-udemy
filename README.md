@@ -9,6 +9,7 @@ Udemy Course by Stephen Grider
 1. Videos
 1. Songs
 1. Blogs
+1. Streams
 
 ## Getting Started
 1. Open a command window in the directory where you want the project saved
@@ -26,3 +27,4 @@ Udemy Course by Stephen Grider
 - [JSON Placholder](http://jsonplaceholder.typicode.com/)
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
 - [Lodash](https://lodash.com/docs/4.17.11)
+- [Google OAuth - Identity Platform](https://developers.google.com/identity/protocols/googlescopes)
