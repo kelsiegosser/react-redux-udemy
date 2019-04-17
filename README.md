@@ -30,3 +30,4 @@ Udemy Course by Stephen Grider
 - [Google OAuth - Identity Platform](https://developers.google.com/identity/protocols/googlescopes)
 - [Browser Redux Extension](https://github.com/zalmoxisus/redux-devtools-extension)
 - [Redux Form](https://redux-form.com/)
+- [JSON Server](https://www.npmjs.com/package/json-server)
