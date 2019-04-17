@@ -29,3 +29,4 @@ Udemy Course by Stephen Grider
 - [Lodash](https://lodash.com/docs/4.17.11)
 - [Google OAuth - Identity Platform](https://developers.google.com/identity/protocols/googlescopes)
 - [Browser Redux Extension](https://github.com/zalmoxisus/redux-devtools-extension)
+- [Redux Form](https://redux-form.com/)
