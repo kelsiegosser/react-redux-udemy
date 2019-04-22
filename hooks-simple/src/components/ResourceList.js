@@ -2,7 +2,7 @@ import React from 'react';
 
 class ResourceList extends React.Component {
   render() {
-    return <div />;
+    return <div>{this.props.resource}</div>;
   }
 }
 
